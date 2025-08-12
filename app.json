@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Sadaqah - صدقة",
+    "slug": "sadaqah",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#22C55E"
+    },
+    "android": {
+      "package": "com.abobakr.sadaqahapp",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#22C55E"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "caec71ff-9e9f-4f65-af05-064dd9187213"
+      }
+    }
+  }
+}
